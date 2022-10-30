@@ -17,12 +17,12 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 
-<div align="left">
+<div align="center">
 
 - #### My Website
       - [https://parsaasadpour.ir](https://parsaasadpour.ir)
   </div>
-  <div align="right">
+  <div align="center">
 
 ### `Contact Me`
 
