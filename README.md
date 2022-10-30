@@ -41,9 +41,21 @@
 ### `Contact Me`
 
 [<img alt="Parsa | telegram" width="22px" src="https://svgshare.com/i/Snh.svg" />][telegram]
+&nbsp;
+&nbsp;
+&nbsp;
 [<img alt="Parsa | LinkedIn" width="22px" src="https://svgshare.com/i/SoD.svg" />][linkedin]
+&nbsp;
+&nbsp;
+&nbsp;
 [<img alt="Parsa | dribbble" width="22px" src="https://svgshare.com/i/Sni.svg" />][dribbble]
+&nbsp;
+&nbsp;
+&nbsp;
 [<img alt="Parsa | codepen" width="22px" src="https://svgshare.com/i/Sn1.svg" />][codepen]
+&nbsp;
+&nbsp;
+&nbsp;
 
 <br/>
 </div>
