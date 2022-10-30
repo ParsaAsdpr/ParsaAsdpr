@@ -5,7 +5,11 @@
 </div>
 <br><hr>
 <img align="right" padding="10px" src="https://github-readme-stats.vercel.app/api?username=ParsaAsdpr&show_icons=true&theme=tokyonight" width="450"/>
-<img align="right" src="https://komarev.com/ghpvc/?username=ParsaAsdpr" />
+<br>
+<img align="center" src="https://komarev.com/ghpvc/?username=ParsaAsdpr" />
+
+<br>
+
 ---
 
  
@@ -23,6 +27,8 @@
 
 ### 🛠 My knowledge
 
+<div>
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white)
@@ -33,10 +39,9 @@
 ![Next JS](https://img.shields.io/badge/Nextjs-black?style=flat-square&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+</div>
 
 <div align="center">
-
-  <div align="center">
 
 ### `Contact Me`
 
