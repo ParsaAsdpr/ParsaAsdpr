@@ -5,10 +5,7 @@
 </div>
 <br><hr>
 <img align="right" padding="10px" src="https://github-readme-stats.vercel.app/api?username=ParsaAsdpr&show_icons=true&theme=tokyonight" width="450"/>
-<br>
-<img align="center" src="https://komarev.com/ghpvc/?username=ParsaAsdpr" />
-
-<br>
+<img align="left" src="https://komarev.com/ghpvc/?username=ParsaAsdpr" />
 
 ---
 
