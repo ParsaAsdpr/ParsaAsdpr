@@ -3,7 +3,23 @@
   <img src="https://raw.githubusercontent.com/ParsaAsdpr/ParsaAsdpr/main/main.svg">
 	<br>
 </div>
+<br><hr>
+<img align="right" padding="10px" src="https://github-readme-stats.vercel.app/api?username=ParsaAsdpr&show_icons=true&theme=tokyonight" width="450"/>
+<img align="right" src="https://komarev.com/ghpvc/?username=ParsaAsdpr" />
+---
 
+ 
+- Junior Web Developer and UI/UX Designer
+- Currently studying computer science at Azad University
+- Github should stop banning my account
+- Open to Work
+
+  
+
+
+- ### My Website
+      - [https://parsaasadpour.ir](https://parsaasadpour.ir)
+  </div>
 ### 🛠 My knowledge
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
@@ -19,9 +35,6 @@
 
 <div align="center">
 
-- #### My Website
-      - [https://parsaasadpour.ir](https://parsaasadpour.ir)
-  </div>
   <div align="center">
 
 ### `Contact Me`
