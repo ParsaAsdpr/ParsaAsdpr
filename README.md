@@ -17,11 +17,12 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 
-![snake gif](https://github.com/ParsaAsdpr/ParsaAsdpr/blob/output/github-contribution-grid-snake.svg)
+<div align="left">
 
-- #### My Website 
-	- [https://parsaasadpour.ir](https://parsaasadpour.ir)
-
+- #### My Website
+      - [https://parsaasadpour.ir](https://parsaasadpour.ir)
+  </div>
+  <div align="right">
 
 ### `Contact Me`
 
@@ -31,6 +32,9 @@
 [<img alt="Parsa | codepen" width="22px" src="https://svgshare.com/i/Sn1.svg" />][codepen]
 
 <br/>
+</div>
+
+![snake gif](https://github.com/ParsaAsdpr/ParsaAsdpr/blob/output/github-contribution-grid-snake.svg)
 
 [linkedin]: https://www.linkedin.com/in/parsa-asadpour-42014322b/
 [telegram]: https://telegram.me/BChatBot?start=sc-683486-4zWlnrG/
