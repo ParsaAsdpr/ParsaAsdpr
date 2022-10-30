@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![snake gif](https://github.com/ParsaAsdpr/ParsaAsdpr/blob/output/github-contribution-grid-snake.gif)
