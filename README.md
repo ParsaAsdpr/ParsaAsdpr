@@ -42,19 +42,19 @@
 
 ### `Contact Me`
 
-[<img alt="Parsa | telegram" width="22px" src="https://svgshare.com/i/Snh.svg" />][telegram]
+[<img alt="Parsa | telegram" width="22px" src="https://www.svgrepo.com/show/354443/telegram.svg" />][telegram]
 &nbsp;
 &nbsp;
 &nbsp;
-[<img alt="Parsa | LinkedIn" width="22px" src="https://svgshare.com/i/SoD.svg" />][linkedin]
+[<img alt="Parsa | LinkedIn" width="22px" src="https://www.svgrepo.com/show/81143/linkedin.svg" />][linkedin]
 &nbsp;
 &nbsp;
 &nbsp;
-[<img alt="Parsa | dribbble" width="22px" src="https://svgshare.com/i/Sni.svg" />][dribbble]
+[<img alt="Parsa | Discord" width="22px" src="https://www.svgrepo.com/show/353655/discord-icon.svg" />][discord]
 &nbsp;
 &nbsp;
 &nbsp;
-[<img alt="Parsa | codepen" width="22px" src="https://svgshare.com/i/Sn1.svg" />][codepen]
+[<img alt="Parsa | gmail" width="22px" src="https://www.svgrepo.com/show/452213/gmail.svg" />][email]
 &nbsp;
 &nbsp;
 &nbsp;
@@ -62,9 +62,7 @@
 <br/>
 </div>
 
-![snake gif](https://github.com/ParsaAsdpr/ParsaAsdpr/blob/output/github-contribution-grid-snake.svg)
-
 [linkedin]: https://www.linkedin.com/in/parsa-asadpour-42014322b/
 [telegram]: https://telegram.me/BChatBot?start=sc-683486-4zWlnrG/
-[dribbble]: https://dribbble.com/ParsaAsadpour/
-[codepen]: https://codepen.io/Poorsa/
+[discord]: https://discordapp.com/users/823587546578944041
+[email]: mailto:parsaparsaasadpour.1999@gmail.com
